@@ -1,4 +1,4 @@
-To create a README file for your GitHub repository, including information about setting up Jenkins for your Netflix clone project, you can use the following template. This README will guide users on how to set up and use Jenkins with your Dockerized project.
+
 
 ---
 
@@ -147,4 +147,4 @@ For further assistance or specific issues, please feel free to ask!
 
 ---
 
-Feel free to modify this template according to your specific setup or additional details you want to include. Once you have the README ready, you can add it to your GitHub repository by creating a `README.md` file in the root of your repository and committing it.
+
